@@ -21,11 +21,11 @@ confirm-close-surface = false
 config-file = "./local_config"
 ### command = "/opt/homebrew/bin/tmux new-session -A -D -s main"
 ###
-### font-family = "Monaco"
+### font-family = "CodeNewRoman Nerd Font Propo"
 ### font-family = "Symbols Nerd Font Mono"
 ### adjust-cell-width = 5%
 ### adjust-cell-height = 5%
-### font-size = 13
+### font-size = 15
 ### font-thicken = true
 ### font-thicken-strength = 255
 ###
