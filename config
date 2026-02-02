@@ -9,7 +9,6 @@ window-padding-y = 5
 window-padding-balance = true
 window-padding-color = background
 
-background-opacity = 0.9
 background-blur = 10
 
 cursor-style = "bar"
@@ -28,6 +27,8 @@ config-file = "./local_config"
 ### font-size = 15
 ### font-thicken = true
 ### font-thicken-strength = 255
+###
+### background-opacity = 0.90
 ###
 ### macos-non-native-fullscreen = padded-notch
 ### macos-titlebar-style = hidden
