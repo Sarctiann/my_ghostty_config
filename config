@@ -17,6 +17,10 @@ custom-shader =  "./shaders/cursor_smear.glsl"
 
 confirm-close-surface = false
 
+# Configure keybinds for sending ctrl+enter and shift+enter
+keybind = shift+enter=text:\x1b[13;2u
+keybind = ctrl+enter=text:\x1b[13;5u
+
 config-file = "./local_config"
 ### command = "/opt/homebrew/bin/tmux new-session -A -D -s main"
 ###
@@ -34,3 +38,4 @@ config-file = "./local_config"
 ### macos-titlebar-style = hidden
 ### macos-window-buttons = hidden
 ### macos-option-as-alt = left
+
