@@ -9,8 +9,6 @@ window-padding-y = 3
 window-padding-balance = true
 window-padding-color = background
 
-background-blur = 10
-
 cursor-style = "bar"
 cursor-style-blink = true
 custom-shader =  "./shaders/cursor_smear.glsl"
@@ -33,6 +31,7 @@ config-file = "./local_config"
 ### font-thicken-strength = 255
 ###
 ### background-opacity = 0.90
+### background-blur = 10
 ###
 ### macos-non-native-fullscreen = padded-notch
 ### macos-titlebar-style = hidden
